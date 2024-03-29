@@ -20,3 +20,15 @@
 .new-city-btn {
     margin-top: 20px;
 }
+
+/* Search field styling */
+#search-input {
+    width: 100%;
+    border-radius: 5px;
+    border: #AEAEAE solid 1px;
+    height: 45px;
+}
+
+.card {
+    padding: 5px
+}
