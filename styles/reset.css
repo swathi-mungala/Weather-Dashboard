@@ -10,7 +10,13 @@
     margin-top: 20px;
 }
 
+/* Search button styling is here*/
 #search-button {
     width: 100%;
     background-color: #5098E6;
+}
+
+/* Button styling is here*/
+.new-city-btn {
+    margin-top: 20px;
 }
