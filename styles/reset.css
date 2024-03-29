@@ -1,0 +1,16 @@
+.weather-header {
+    background-image: linear-gradient(to right, #3361BA, #210C4F);
+}
+
+.input-group {
+    display: block;
+}
+
+.input-group-append {
+    margin-top: 20px;
+}
+
+#search-button {
+    width: 100%;
+    background-color: #5098E6;
+}
